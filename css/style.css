@@ -1,0 +1,164 @@
+/*header start*/
+.body1{
+	margin: 0;
+	padding: 0;
+}
+.head{
+	border-bottom: 2px solid #EEF0F3;
+	padding: 10px 0;
+}
+.container {
+	overflow: hidden;
+	width: 90%;
+	/*border: 1px solid;*/
+	margin: 0 auto;
+}
+.logo { 
+	float:left ;
+	width: 10%;
+	margin-top: 5px ;
+	/*border: 1px solid blue;*/
+}
+.logo a{
+}
+.logo a img{
+}
+.menu {
+	float: right;
+	width: 40%;
+	/*border: 1px solid blue;*/
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{ 
+	list-style: none;
+	float: left;
+}
+.menu ul li a{
+	text-decoration: none;
+	margin: 0 10px;
+	display: inline-block;
+	font-size: 20px;
+	color: #39556B;
+	text-transform: capitalize;
+}
+.menu ul li:hover a{
+	color: #1161FE;
+}
+.menu ul li:last-child a{
+	margin-right: 0;
+}
+
+/*header end*/
+
+/*header2 start*/
+.body2{
+	padding: 0;
+	margin: 0;
+}
+.head1{
+	border: 1px solid #BA2942;
+	padding: 0 10px;
+}
+.wrapper {
+	overflow: hidden;
+	width: 90%;
+	/*border: 1px solid;*/
+	margin: 0 auto;
+}
+.logo1 { 
+	float:left ;
+	width: 10%;
+	margin-top: 5px ;
+	/*border: 1px solid blue;*/
+}
+.logo1 a{
+}
+.logo1 a img{
+}
+.menu1 {
+	float: right;
+	width: 60%;
+	/*border: 1px solid blue;*/
+}
+.menu1 ul{
+	float: right;
+}
+.menu1 ul li{ 
+	list-style: none;
+	float: left;
+}
+.menu1 ul li a{
+	text-decoration: none;
+	margin: 0 12px;
+	display: inline-block;
+	font-size: 14px;
+	color: #000000;
+	/*text-transform: capitalize;*/
+}
+.menu1 ul li:hover a{
+	color: #BA2942;
+}
+.menu1 ul li:last-child a{
+	margin-right: 0;
+}
+/*header2 end*/
+/*header3 start*/
+.body3{
+	padding: 0;
+	margin: 0;
+}
+.head2{
+	border: 1px solid #BA2942;
+	padding: 0 10px;
+	background-color: #000000;
+}
+.container2 {
+	overflow:hidden;
+	width:90%;
+	/*border:1px solid;*/
+	margin:0 auto;
+}
+.logo2 { 
+	float:left ;
+	width: 10%;
+	margin-top: 5px ;
+	/*border: 1px solid blue;*/
+}
+.logo2 a{
+}
+.logo2 a img{
+}
+.menu2 {
+	float: right;
+	width: 60%;
+	/*border: 1px solid blue;*/
+}
+.menu2 ul{
+	float: right;
+}
+.menu2 ul li{ 
+	list-style: none;
+	float: left;
+}
+.menu2 ul li a{
+	text-decoration: none;
+	margin: 0 16px;
+	display: inline-block;
+	font-size: 16px;
+	color: #CA3539;
+	text-transform: capitalize;
+}
+.menu2 ul li:hover a{
+	color: #FFFFFF;
+}
+.menu2 ul li:last-child a{
+	margin-right: 0;
+}
+/*header3 end*/
+/*css practice starts*/
+.body{
+	background-image: url(image/back.jpg);
+}
+/*css practice ends*/
